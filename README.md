@@ -1,8 +1,8 @@
 ### Hi there, I'm Savanna - aka [SavannaMarie]
-## I'm a Mother and a student!
+## I'm a Mother and a student at CodeUp
 
 - 🔭 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning front end development!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: 
 - ⚡ Fun fact: 
