@@ -1,16 +1,12 @@
 ### Hi there, I'm Savanna - aka [SavannaMarie]
 ## I'm a Mother and a student at CodeUp
 
-- 🔭 
+- 🔭 I am attending CodeUp in San Antonio TX
 - 🌱 I’m currently learning front end development!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: 
-- ⚡ Fun fact: 
-
-
-### Connect with me:
-
-
+- 👯 I’m looking to collaborate with other creators
+- ⚙️ I use daily: `.js`, `.html`, `.css`
+- 🥅 2021 Goals: Transition into a developer career
+- ⚡ Fun fact: I am a huge LOTR fan
 <br />
 
 ### Languages and Tools:
