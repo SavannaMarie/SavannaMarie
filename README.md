@@ -1,5 +1,5 @@
 ### Hi there, I'm Savanna - aka [SavannaMarie]
-## I'm a Mother, wife and a student at CodeUp
+## I'm a mother, wife and a student at CodeUp
 
 - 🔭 I am attending CodeUp in San Antonio TX
 - 🌱 I’m currently learning front end development!
