@@ -22,7 +22,7 @@
   ![SavannaMarie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavannaMarie)
 
 </details>
-<br /><br />
+
 <details>
   <summary>:zap: Top Languages</summary>
 
