@@ -19,6 +19,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![SavannaMarie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavannaMarie)]
+  ![SavannaMarie's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavannaMarie)
 
 </details>
