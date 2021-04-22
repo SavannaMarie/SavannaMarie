@@ -2,7 +2,7 @@
 ## I'm a mother, wife and a student at CodeUp
 
 - 🔭 I am attending CodeUp in San Antonio TX
-- 🌱 I’m currently learning front end development!
+- 🌱 I’m currently learning the full stack development!
 - 👯 I’m looking to collaborate with other creators
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 💎 2021 Goals: Transition into a developer career
