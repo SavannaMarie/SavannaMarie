@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="155px" src="header2.jpg">
+  <img height="180px" src="header2.jpg">
 </p>
 
 <h2> I'm a mother, wife and a student at CodeUp</h2>
