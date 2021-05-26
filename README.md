@@ -2,7 +2,7 @@
   <img height="180px" src="header2.jpg">
 </p>
 
-<h2>Welcome, I'm Savanna!</h2><h3>I am mother, wife and a student at CodeUp</h3>
+<h2>Welcome, I'm Savanna!</h2><h3>I am a mother, wife and a student at CodeUp</h3>
 
 - 🔭 Attending CodeUp in San Antonio TX
 - 🌱 I’m currently learning Java!
