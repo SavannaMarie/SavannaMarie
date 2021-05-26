@@ -1,4 +1,6 @@
-![SavannaMarie](header.jpg)
+<p align="center">
+  <img src="header.jpg">
+</p>
 ## I'm a mother, wife and a student at CodeUp
 
 - 🔭 I am attending CodeUp in San Antonio TX
