@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.jpg">
+  <img src="header2.jpg">
 </p>
 ## I'm a mother, wife and a student at CodeUp
 
