@@ -1,4 +1,4 @@
-### Hi there, I'm Savanna - aka [SavannaMarie]
+![SavannaMarie](header.jpg)
 ## I'm a mother, wife and a student at CodeUp
 
 - 🔭 I am attending CodeUp in San Antonio TX
