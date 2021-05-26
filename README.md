@@ -1,7 +1,8 @@
 <p align="center">
   <img src="header2.jpg">
 </p>
-## I'm a mother, wife and a student at CodeUp
+
+<h2> I'm a mother, wife and a student at CodeUp</h2>
 
 - 🔭 I am attending CodeUp in San Antonio TX
 - 🌱 I’m currently learning the full stack development!
