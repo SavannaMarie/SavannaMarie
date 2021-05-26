@@ -4,9 +4,8 @@
 
 <h2> I'm a mother, wife and a student at CodeUp</h2>
 
-- 🔭 I am attending CodeUp in San Antonio TX
-- 🌱 I’m currently learning the full stack development!
-- 👯 I’m looking to collaborate with other creators
+- 🔭 Attending CodeUp in San Antonio TX
+- 🌱 I’m currently learning Java!
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 💎 2021 Goals: Transition into a developer career
 - 🔥 Fun fact: I am a huge LOTR fan
