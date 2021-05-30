@@ -9,8 +9,6 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 💎 2021 Goals: Transition into a developer career
 - 🔥 Fun fact: I am a huge LOTR fan
-<br />
-
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="html1.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
