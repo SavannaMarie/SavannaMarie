@@ -5,7 +5,7 @@
 <h2>Welcome, I'm Savanna!</h2><h3>I am a mother, wife and a student at CodeUp</h3>
 
 - 🔭 Attending CodeUp in San Antonio TX
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning Java & Python! 💪
 - ⚙️ I use daily: `.js`, `.html`, `.css`
 - 💎 2021 Goals: Transition into a developer career
 - 🔥 Fun fact: I am a huge LOTR fan
