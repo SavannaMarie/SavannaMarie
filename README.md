@@ -22,7 +22,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SavannaMarie&theme=tokyonight_duo)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SavannaMarie&theme=tokyonight_duo)](https://git.io/streak-stats) 
 
 </details>
 
