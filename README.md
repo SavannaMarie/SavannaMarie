@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: Top Languages</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavannaMarie&layout=compact)](https://github.com/SavannaMarie/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavannaMarie&layout=compact&theme=radical)](https://github.com/SavannaMarie/github-readme-stats)
 
 </details>
 
