@@ -6,6 +6,7 @@
 
 
 
+
 - 🔭 Attending CodeUp in San Antonio TX
 - 🌱 I’m currently learning Java & Python 💪
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`
