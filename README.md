@@ -2,6 +2,7 @@
   <img src="header2.jpg">
 </p>
 
+
 <h2>Welcome, I'm Savanna!</h2><h3>I am a mother, wife and a student at CodeUp</h3>
 
 
