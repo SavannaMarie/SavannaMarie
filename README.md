@@ -7,7 +7,7 @@
 
 
 - 🔭 Attending CodeUp in San Antonio, TX
-- 🌱 I’m currently learning Java & Python 💪
+- 🌱 I’m currently learning ReactJS 💪
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`
 - 💎 2021 Goals: Transition into a developer career
 - 🔥 Fun fact: I am a huge LOTR fan
