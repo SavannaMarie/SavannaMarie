@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Attending CodeUp in San Antonio, TX
+- 🔭 Just graduated CodeUp in San Antonio, TX
 - 🌱 I’m currently learning ReactJS 💪
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`
 - 💎 2021 Goals: Transition into a developer career
@@ -22,13 +22,6 @@
 
 
 <br /><br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SavannaMarie&theme=tokyonight_duo)](https://git.io/streak-stats) 
-
-</details>
-
 <details>
   <summary>:zap: Top Languages</summary>
 
