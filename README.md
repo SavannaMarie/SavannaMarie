@@ -7,7 +7,7 @@
 
 
 - 🔭 Just graduated CodeUp in San Antonio, TX
-- 🌱 I’m currently learning ReactJS 💪
+- 🌱 I’m currently learning Angular 💪
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`
 - 💎 2021 Goals: Transition into a developer career
 - 🔥 Fun fact: I am a huge LOTR fan
