@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Just graduated CodeUp in San Antonio, TX
+- 🔭 Recent bootcamp grad
 - 🌱 I’m currently learning Angular 💪
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`
 - 💎 2021 Goals: Transition into a developer career
