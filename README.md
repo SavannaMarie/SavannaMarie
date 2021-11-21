@@ -6,10 +6,10 @@
 
 
 
-- 🔭 Recent bootcamp grad
+- 🔭 Recent bootcamp grad (Codeup)
 - 🌱 I’m currently learning Angular 💪
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`
-- 💎 2021 Goals: Transition into a developer career
+- 💎 2022 Goals: Expand my knowledge of Java
 - 🔥 Fun fact: I am a huge LOTR fan
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="html1.png" />
